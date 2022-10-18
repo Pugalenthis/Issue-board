@@ -1,6 +1,6 @@
 import React from "react";
 import IssueList from "../components/IssueList";
-import Navbar from "../components/navbar";
+import Navbar from "../components/Navbar";
 
 const Home = () => {
   return (
